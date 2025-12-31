@@ -485,11 +485,11 @@
 	<UIFocusMode Value="Bindings_FocusModeHold" />
 	<FocusLeftPanel>
 		<Primary Device="Keyboard" Key="Key_1" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_1" />
 	</FocusLeftPanel>
 	<FocusCommsPanel>
 		<Primary Device="Keyboard" Key="Key_2" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_2" />
 	</FocusCommsPanel>
 	<FocusOnTextEntryField Value="0" />
 	<QuickCommsPanel>
@@ -498,17 +498,17 @@
 	</QuickCommsPanel>
 	<FocusRadarPanel>
 		<Primary Device="Keyboard" Key="Key_3" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_3" />
 	</FocusRadarPanel>
 	<FocusRightPanel>
 		<Primary Device="Keyboard" Key="Key_4" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_4" />
 	</FocusRightPanel>
 	<LeftPanelFocusOptions Value="" />
 	<CommsPanelFocusOptions Value="" />
 	<RolePanelFocusOptions Value="" />
 	<RightPanelFocusOptions Value="" />
-	<EnableCameraLockOn Value="1" />
+	<EnableCameraLockOn Value="0" />
 	<GalaxyMapOpen>
 		<Primary Device="Keyboard" Key="Key_Period" />
 		<Secondary Device="044F042A" Key="Joy_5" />
@@ -541,11 +541,11 @@
 	</OpenCodexGoToDiscovery>
 	<PlayerHUDModeToggle>
 		<Primary Device="Keyboard" Key="Key_M" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_36" />
 	</PlayerHUDModeToggle>
 	<ExplorationFSSEnter>
 		<Primary Device="Keyboard" Key="Key_Apostrophe" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_11" />
 	</ExplorationFSSEnter>
 	<UI_Up>
 		<Primary Device="Keyboard" Key="Key_W" />
