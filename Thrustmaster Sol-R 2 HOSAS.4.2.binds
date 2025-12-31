@@ -388,11 +388,11 @@
 	</DeployHeatSink>
 	<ShipSpotLightToggle>
 		<Primary Device="Keyboard" Key="Key_Insert" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_16" />
 	</ShipSpotLightToggle>
 	<RadarRangeAxis>
-		<Binding Device="{NoDevice}" Key="" />
-		<Inverted Value="0" />
+		<Binding Device="044F0422" Key="Joy_ZAxis" />
+		<Inverted Value="1" />
 		<Deadzone Value="0.00000000" />
 	</RadarRangeAxis>
 	<RadarIncreaseRange>
