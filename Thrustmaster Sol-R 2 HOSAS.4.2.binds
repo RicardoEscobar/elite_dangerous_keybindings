@@ -272,12 +272,12 @@
 	</BackwardThrustButton_Landing>
 	<ToggleFlightAssist>
 		<Primary Device="Keyboard" Key="Key_Z" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_28" />
 		<ToggleOn Value="1" />
 	</ToggleFlightAssist>
 	<UseBoostJuice>
 		<Primary Device="Keyboard" Key="Key_Tab" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_28" />
 	</UseBoostJuice>
 	<HyperSuperCombination>
 		<Primary Device="Keyboard" Key="Key_J" />
@@ -285,11 +285,11 @@
 	</HyperSuperCombination>
 	<Supercruise>
 		<Primary Device="Keyboard" Key="Key_K" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_26" />
 	</Supercruise>
 	<Hyperspace>
 		<Primary Device="Keyboard" Key="Key_I" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_27" />
 	</Hyperspace>
 	<DisableRotationCorrectToggle>
 		<Primary Device="{NoDevice}" Key="" />
@@ -297,7 +297,7 @@
 		<ToggleOn Value="1" />
 	</DisableRotationCorrectToggle>
 	<OrbitLinesToggle>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="044F042A" Key="Joy_7" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</OrbitLinesToggle>
 	<SelectTarget>
