@@ -405,19 +405,19 @@
 	</RadarDecreaseRange>
 	<IncreaseEnginesPower>
 		<Primary Device="Keyboard" Key="Key_UpArrow" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_POV1Up" />
 	</IncreaseEnginesPower>
 	<IncreaseWeaponsPower>
 		<Primary Device="Keyboard" Key="Key_RightArrow" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_POV1Right" />
 	</IncreaseWeaponsPower>
 	<IncreaseSystemsPower>
 		<Primary Device="Keyboard" Key="Key_LeftArrow" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_POV1Left" />
 	</IncreaseSystemsPower>
 	<ResetPowerDistribution>
 		<Primary Device="Keyboard" Key="Key_DownArrow" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_POV1Down" />
 	</ResetPowerDistribution>
 	<HMDReset>
 		<Primary Device="Keyboard" Key="Key_F12" />
@@ -425,7 +425,7 @@
 	</HMDReset>
 	<ToggleCargoScoop>
 		<Primary Device="Keyboard" Key="Key_Home" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_6" />
 		<ToggleOn Value="1" />
 	</ToggleCargoScoop>
 	<EjectAllCargo>
@@ -434,7 +434,7 @@
 	</EjectAllCargo>
 	<LandingGearToggle>
 		<Primary Device="Keyboard" Key="Key_L" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_8" />
 	</LandingGearToggle>
 	<MicrophoneMute>
 		<Primary Device="{NoDevice}" Key="" />
@@ -445,19 +445,19 @@
 	<CqcMuteButtonMode Value="mute_pushToTalk" />
 	<UseShieldCell>
 		<Primary Device="{NoDevice}" Key="" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_35" />
 	</UseShieldCell>
 	<FireChaffLauncher>
 		<Primary Device="{NoDevice}" Key="" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_39" />
 	</FireChaffLauncher>
 	<TriggerFieldNeutraliser>
 		<Primary Device="{NoDevice}" Key="" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_35" />
 	</TriggerFieldNeutraliser>
 	<ChargeECM>
 		<Primary Device="{NoDevice}" Key="" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_36" />
 	</ChargeECM>
 	<EnableRumbleTrigger Value="1" />
 	<EnableMenuGroups Value="0" />
@@ -472,7 +472,7 @@
 	</EngineColourToggle>
 	<NightVisionToggle>
 		<Primary Device="{NoDevice}" Key="" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F042A" Key="Joy_18" />
 	</NightVisionToggle>
 	<TriggerColonisationModule>
 		<Primary Device="Keyboard" Key="Key_Y" />
