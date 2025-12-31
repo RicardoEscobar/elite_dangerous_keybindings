@@ -1021,19 +1021,19 @@
 	</MultiCrewCockpitUICycleBackward>
 	<OrderRequestDock>
 		<Primary Device="Keyboard" Key="Key_Numpad_0" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_4" />
 	</OrderRequestDock>
 	<OrderDefensiveBehaviour>
 		<Primary Device="Keyboard" Key="Key_Numpad_1" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_2" />
 	</OrderDefensiveBehaviour>
 	<OrderAggressiveBehaviour>
 		<Primary Device="Keyboard" Key="Key_Numpad_2" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_1" />
 	</OrderAggressiveBehaviour>
 	<OrderFocusTarget>
 		<Primary Device="Keyboard" Key="Key_Numpad_3" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_3" />
 	</OrderFocusTarget>
 	<OrderHoldFire>
 		<Primary Device="Keyboard" Key="Key_Numpad_4" />
@@ -1049,7 +1049,7 @@
 	</OrderFollow>
 	<OpenOrders>
 		<Primary Device="{NoDevice}" Key="" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_5" />
 	</OpenOrders>
 	<PhotoCameraToggle>
 		<Primary Device="Keyboard" Key="Key_Space">
