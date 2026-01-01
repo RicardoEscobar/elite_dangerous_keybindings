@@ -807,7 +807,7 @@
 	</BuggyCycleFireGroupPrevious>
 	<SelectTarget_Buggy>
 		<Primary Device="Mouse" Key="Mouse_2" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_30" />
 	</SelectTarget_Buggy>
 	<MouseTurretXMode Value="Bindings_MouseYaw" />
 	<MouseTurretXDecay Value="1" />
@@ -874,19 +874,19 @@
 	</DecreaseSpeedButtonPartial>
 	<IncreaseEnginesPower_Buggy>
 		<Primary Device="Keyboard" Key="Key_UpArrow" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_POV1Up" />
 	</IncreaseEnginesPower_Buggy>
 	<IncreaseWeaponsPower_Buggy>
 		<Primary Device="Keyboard" Key="Key_RightArrow" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_POV1Right" />
 	</IncreaseWeaponsPower_Buggy>
 	<IncreaseSystemsPower_Buggy>
 		<Primary Device="Keyboard" Key="Key_LeftArrow" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_POV1Left" />
 	</IncreaseSystemsPower_Buggy>
 	<ResetPowerDistribution_Buggy>
 		<Primary Device="Keyboard" Key="Key_DownArrow" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="044F0422" Key="Joy_POV1Down" />
 	</ResetPowerDistribution_Buggy>
 	<ToggleCargoScoop_Buggy>
 		<Primary Device="Keyboard" Key="Key_Home" />
