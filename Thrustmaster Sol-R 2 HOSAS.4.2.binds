@@ -1384,20 +1384,20 @@
 	</ExplorationFSSShowHelp>
 	<ExplorationSAAChangeScannedAreaViewToggle>
 		<Primary Device="Mouse" Key="Mouse_3" />
-		<Secondary Device="044F0422" Key="Joy_28" />
+		<Secondary Device="044F0422" Key="Joy_35" />
 		<ToggleOn Value="0" />
 	</ExplorationSAAChangeScannedAreaViewToggle>
 	<ExplorationSAAExitThirdPerson>
 		<Primary Device="Keyboard" Key="Key_Backspace" />
-		<Secondary Device="044F0422" Key="Joy_11" />
+		<Secondary Device="044F0422" Key="Joy_39" />
 	</ExplorationSAAExitThirdPerson>
 	<ExplorationSAANextGenus>
 		<Primary Device="Keyboard" Key="Key_E" />
-		<Secondary Device="044F0422" Key="Joy_9" />
+		<Secondary Device="044F042A" Key="Joy_27" />
 	</ExplorationSAANextGenus>
 	<ExplorationSAAPreviousGenus>
 		<Primary Device="Keyboard" Key="Key_Q" />
-		<Secondary Device="044F0422" Key="Joy_10" />
+		<Secondary Device="044F042A" Key="Joy_26" />
 	</ExplorationSAAPreviousGenus>
 	<SAAThirdPersonMouseXMode Value="Bindings_MouseYaw" />
 	<SAAThirdPersonMouseXDecay Value="0" />
@@ -1405,7 +1405,7 @@
 	<SAAThirdPersonMouseYDecay Value="0" />
 	<SAAThirdPersonMouseSensitivity Value="5.00000000" />
 	<SAAThirdPersonYawAxisRaw>
-		<Binding Device="{NoDevice}" Key="" />
+		<Binding Device="044F0422" Key="Joy_XAxis" />
 		<Inverted Value="0" />
 		<Deadzone Value="0.00000000" />
 	</SAAThirdPersonYawAxisRaw>
@@ -1418,7 +1418,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</SAAThirdPersonYawRightButton>
 	<SAAThirdPersonPitchAxisRaw>
-		<Binding Device="{NoDevice}" Key="" />
+		<Binding Device="044F0422" Key="Joy_YAxis" />
 		<Inverted Value="0" />
 		<Deadzone Value="0.00000000" />
 	</SAAThirdPersonPitchAxisRaw>
@@ -1431,7 +1431,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</SAAThirdPersonPitchDownButton>
 	<SAAThirdPersonFovAxisRaw>
-		<Binding Device="{NoDevice}" Key="" />
+		<Binding Device="044F0422" Key="Joy_RZAxis" />
 		<Inverted Value="0" />
 		<Deadzone Value="0.00000000" />
 	</SAAThirdPersonFovAxisRaw>
