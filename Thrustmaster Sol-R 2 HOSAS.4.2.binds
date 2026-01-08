@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Root PresetName="Thrustmaster Sol-R 2 HOSAS" MajorVersion="4" MinorVersion="2">
 	<KeyboardLayout>en-US</KeyboardLayout>
-	<MouseXMode Value="Bindings_MouseRoll" />
+	<MouseXMode Value="" />
 	<MouseXDecay Value="0" />
-	<MouseYMode Value="Bindings_MousePitch" />
+	<MouseYMode Value="" />
 	<MouseYDecay Value="0" />
 	<MouseReset>
 		<Primary Device="{NoDevice}" Key="" />
@@ -13,7 +13,7 @@
 	<MouseDecayRate Value="4.00000000" />
 	<MouseDeadzone Value="0.05000000" />
 	<MouseLinearity Value="1.00000000" />
-	<MouseGUI Value="1" />
+	<MouseGUI Value="0" />
 	<BlockMouseDecay>
 		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
@@ -342,7 +342,7 @@
 	</SelectTargetsTarget>
 	<WingNavLock>
 		<Primary Device="Keyboard" Key="Key_Minus" />
-		<Secondary Device="044F0422" Key="Joy_17" />
+		<Secondary Device="{NoDevice}" Key="" />
 	</WingNavLock>
 	<CycleNextSubsystem>
 		<Primary Device="Keyboard" Key="Key_Y" />
@@ -461,7 +461,7 @@
 	</ChargeECM>
 	<EnableRumbleTrigger Value="1" />
 	<EnableMenuGroups Value="0" />
-	<MouseGUI Value="1" />
+	<MouseGUI Value="0" />
 	<WeaponColourToggle>
 		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
@@ -572,7 +572,7 @@
 		<Secondary Device="044F042A" Key="Joy_24" />
 	</UI_Back>
 	<UI_Toggle>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="044F042A" Key="Joy_28" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</UI_Toggle>
 	<CycleNextPanel>
@@ -1722,21 +1722,21 @@
 		<Secondary Device="Mouse" Key="Mouse_3" />
 	</StoreEnableRotation>
 	<StorePitchCamera>
-		<Binding Device="34340331" Key="Joy_YAxis" />
+		<Binding Device="044F0422" Key="Joy_YAxis" />
 		<Inverted Value="0" />
 		<Deadzone Value="0.00000000" />
 	</StorePitchCamera>
 	<StoreYawCamera>
-		<Binding Device="34340331" Key="Joy_RZAxis" />
+		<Binding Device="044F0422" Key="Joy_RZAxis" />
 		<Inverted Value="0" />
 		<Deadzone Value="0.00000000" />
 	</StoreYawCamera>
 	<StoreCamZoomIn>
-		<Primary Device="34340331" Key="Joy_4" />
+		<Primary Device="044F042A" Key="Pos_Joy_RZAxis" />
 		<Secondary Device="Keyboard" Key="Key_X" />
 	</StoreCamZoomIn>
 	<StoreCamZoomOut>
-		<Primary Device="34340331" Key="Joy_5" />
+		<Primary Device="044F042A" Key="Neg_Joy_RZAxis" />
 		<Secondary Device="Keyboard" Key="Key_Z" />
 	</StoreCamZoomOut>
 	<StoreToggle>
